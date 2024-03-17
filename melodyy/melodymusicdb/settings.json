@@ -1,0 +1,10 @@
+{
+    "phpServer.phpPath": "php",
+    "phpServer.phpIniPath": "",
+    "phpServer.port": 5500,
+    "phpServer.defaultDocRoot": "${workspaceRoot}",
+    "phpServer.logErrors": true,
+    "phpServer.ignoreFolders": [".vscode", ".git"],
+    "phpServer.maxExecutionTime": 30,
+    "phpServer.rewrite": true
+}
